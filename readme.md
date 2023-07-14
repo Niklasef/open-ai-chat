@@ -6,6 +6,7 @@ two api branches:
 - completion (legacy)
     - models: text-davinci-003, text-davinci-002, davinci, curie, babbage, ada
     - single messages, no memory messages
+- ChatGPT plugins (beta)
 
 - hallucinations (makes up facts)
 
